@@ -1,0 +1,104 @@
+body {
+            background-color: lightblue;
+        }
+
+        .a {
+            border: 1px solid rgb(243, 87, 87);
+            border-radius: 8px;
+            text-align: center;
+            background-color: bisque;
+             background-image: url("portrait.png");
+                background-repeat:no-repeat;
+                background-position: center-top;
+                background-size:cover;
+        }
+
+        h1 {
+            font-family: elephant;
+            color: brown;
+            font-size: 40px;
+            padding: 10px;
+        }
+
+        small {
+            color: darkred;
+            font-family: calibri;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        small:hover {
+            color: rgb(85, 0, 255);
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: center;
+        }
+
+        .navhome {
+            margin: 30px;
+        }
+
+        .navabout {
+            margin: 30px;
+        }
+
+        .navcontact {
+            margin: 30px;
+        }
+
+        .navemail {
+            margin: 30px;
+        }
+        div {
+            border: solid 1px rgb(243, 87, 87);
+            border-radius: 8px;
+            background-color: blanchedalmond;
+        }
+        table{
+            width:90%;
+        }
+        table,th,td{
+            padding:50px 25px;
+            text-align:center;
+            border: solid black 2px;
+            margin-left:80px;
+            border-radius: 5px;
+            margin-bottom:10px;   
+            border-collapse: collapse;
+        }
+        th{
+            font-family:stencil;
+            color:rgb(88, 130, 45);
+            font-weight:bold;
+            font-size: 25px;
+            text-decoration:underline;
+            text-decoration-style:wavy;
+        }
+        td{
+            font-family:sitka display;
+            font-size:20px;
+            color:rgb(195, 53, 81);
+        }
+        th:hover{
+            color:rgb(203, 239, 83);
+        }
+        .b{
+            color:rgb(221, 67, 67);
+        }
+        .b:hover{
+            color:rgb(226, 144, 21);
+        }
+        .c{
+            color:rgb(221, 67, 67);
+        }
+        .c:hover{
+            color:rgb(226, 144, 21);
+        }
+        .d{
+            color:rgb(221, 67, 67);
+        }
+        .d:hover{
+            color:rgb(226, 144, 21);
+        }
